@@ -24,7 +24,7 @@ to push changes to GitHub enter: git push origin master
 .For an isosceles triangle, two sides are exactly equal.
 .For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.
 ### contact information
-{email: aisha63abubakar@gmail.com}
+email: aisha63abubakar@gmail.com
 ### license
 MIT License
 
