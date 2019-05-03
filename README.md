@@ -1,5 +1,7 @@
-## Project Name: Triangle-Tracker
-### Author: Aisha Abukar
+## Project Name:
+Triangle-Tracker
+### Author:
+Aisha Abukar
 ### Description
 This is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.
 
