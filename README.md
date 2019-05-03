@@ -20,9 +20,9 @@ This is an application that will help us know whether a triangle is isosceles, e
 ## known bugs
 There were no known bugs at the time of writting this code
 ## Technology used
-HTML
-CSS
-javaScript
+* HTML
+* CSS
+* javaScript
 
 ## contact information
 email: aisha63abubakar@gmail.com
