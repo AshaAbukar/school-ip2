@@ -1,11 +1,11 @@
 ## Project Name:
 Triangle-Tracker
-### Author:
+## Author:
 Aisha Abukar
-### Description
+## Description
 This is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.
 
-### Setup instructions
+## Setup instructions
 * Google Chrome
 * Fast Internet Connection.
 * You can now enjoy the program.
