@@ -9,7 +9,8 @@ This is an application that will help us know whether a triangle is isosceles, e
 Google Chrome
 Fast Internet Connection.
 You can now enjoy the program.
-##BDD
+
+## BDD
 | Behavior of the tracker                     |  input                  | output              |      
 |---------------------------------------------|-------------------------|---------------------| 
 | If all sides are equal                      | 10, 10, 10              |Equilateral Triangle |
