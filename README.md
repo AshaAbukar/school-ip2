@@ -20,9 +20,9 @@ You can now enjoy the program.
 ## known bugs
 There were no known bugs at the time of writting this code
 ## Technology used
-.HTML
-.CSS
-.javaScript
+. HTML
+. CSS
+. javaScript
 
 ## contact information
 email: aisha63abubakar@gmail.com
